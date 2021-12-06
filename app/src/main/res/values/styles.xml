@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/white</item>
+        <!--  重点 ：不设置当前属性，入场动画的时候，会出现背景黑屏-->
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+</resources>

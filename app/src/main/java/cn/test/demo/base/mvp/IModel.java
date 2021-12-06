@@ -1,0 +1,1 @@
+package cn.test.demo.base.mvp;/** * Created by Sam on  2021-12-06  17:47 * Describe: */public interface IModel {    /**     * 在框架中会默认调用     */    void onDestroy();}

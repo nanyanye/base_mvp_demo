@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="network_tips_hint">当前网络不可用，请检查您的网络设备</string>
+    <string name="apply_permission_dialog_title_hint">权限申请</string>
+    <string name="apply_permission_dialog_message_hint">需要跳转系统设置%1$s权限</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+</resources>
